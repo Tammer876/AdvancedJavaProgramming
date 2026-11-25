@@ -1,0 +1,7 @@
+CREATE TABLE items
+(
+    id BIGINT AUTO_INCREMENT NOT NULL,
+
+);
+
+
